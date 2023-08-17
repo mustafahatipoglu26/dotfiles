@@ -16,7 +16,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/romkatv/zsh4humans/v5/inst
 Apply dotfiles:
 [source,sh]
 ----
-sh -c "$(curl -fsSL get.chezmoi.io)" -- init --apply krmbzds
+sh -c "$(curl -fsSL get.chezmoi.io)" -- init --apply mustafahatipoglu26
 ----
 
 Works best on a fresh install of `Pop!_OS 22.04 LTS`.
