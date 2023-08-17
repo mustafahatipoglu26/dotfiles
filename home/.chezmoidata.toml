@@ -49,7 +49,7 @@ difftastic = true
 whispercpp = true
 libreoffice = false
 taskwarrior = true
-sublime_text = false
+sublime_text = true
 simple_scanner = false
 signal_messenger = true
 
